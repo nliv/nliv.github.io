@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-456cc6d6","path":"/docs/theme-reco/plugin.html","title":"plugin","lang":"en-US","frontmatter":{"title":"plugin","date":"2020-05-28T00:00:00.000Z"},"headers":[]}');export{t as data};
