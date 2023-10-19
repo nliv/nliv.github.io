@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-63bd45f0","path":"/docs/guide/introduce.html","title":"Warming Up","lang":"en-US","frontmatter":{"title":"Warming Up","date":"2023-10-19T00:00:00.000Z"},"headers":[],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"filePathRelative":"docs/guide/introduce.md"}');export{e as data};

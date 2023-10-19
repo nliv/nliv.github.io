@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-07adad89","path":"/docs/symbols/introduce.html","title":"Symbols","lang":"en-US","frontmatter":{"title":"Symbols","date":"2023-10-19T00:00:00.000Z"},"headers":[],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"filePathRelative":"docs/symbols/introduce.md"}');export{t as data};
